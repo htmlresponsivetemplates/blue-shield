@@ -2,7 +2,7 @@
 
 #Description
 
-Free open-source Material Design Lite [Blue-Shield](http://htmlresponsivetemplates.com/project/blue-shield) landing page.
+Free open-source Material Design Lite [Blue-Shield](http://htmlresponsivetemplates.com/project/blue-shield) landing page template.
 
 ## Getting Started
 
